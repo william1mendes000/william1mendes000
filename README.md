@@ -1,6 +1,6 @@
 
 
-### Howdy, I'm [William Mendes!](https://www.linkedin.com/in/william-mendes-654130144/)
+### Hi, I'm [William Mendes!](https://www.linkedin.com/in/william-mendes-654130144/)
 
 - I’m currently working on developing my technical skills.🔭
 
