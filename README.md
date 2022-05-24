@@ -4,6 +4,10 @@
 
 - I’m currently working on developing my technical skills.🔭
 
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=william1mendes000&count_private=true&show_icons=true&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=william1mendes000&layout=compact&theme=dark"/>
+</div>
 
 #### Studying 💻:
 <div align="left">
@@ -19,6 +23,11 @@
 
 
 #### Let's connect!
+
+<div>
+  
+</div>
+  
 
 
 ![giphy](https://user-images.githubusercontent.com/70758675/146445303-7242a7ea-4b7f-45e4-b5b8-542479e99092.gif)
